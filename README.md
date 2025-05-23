@@ -2,6 +2,8 @@
 
 ## Changelog
 
+- 2025-05-23 [dch4o](mailto:dohoon.cho@nearthlab.com)
+  - Add `--symlink-install` and `packages-up-to` flag in `./build.sh` to prevent installation conflict 
 - 2025-04-01 [junwoopark](mailto:junwoo.park@nearthlab.com)
   - Convert acceleration output unit: from `g` to `m/s^2`
 
